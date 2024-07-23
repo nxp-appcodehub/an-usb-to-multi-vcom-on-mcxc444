@@ -1,7 +1,7 @@
 # NXP Application Code Hub
 [<img src="https://mcuxpresso.nxp.com/static/icon/nxp-logo-color.svg" width="100"/>](https://www.nxp.com)
 
-## usb-to-multi-vcom-on-mcxc444
+## USB to Multi VCOM on MCXC444 Series MCU
 This application note describes how to implement a USB to multiple VCOMs' functions on MCXC444 series on FRDM boards (FRDM-MCXC444). The function of USB to VCOM can be implemented by using the common AT commands in the subclass of the abstract control model in the CDC class specified by the USB protocol. A USB device can support one or more VCOMs, the number of VCOM depends mainly on the number of endpoints (EP) supported by USB device. This application note implements the function of a USB to 15 VCOMs and the development tool is MCUXpresso IDE
 
 ![](image/multi_vcom.png)

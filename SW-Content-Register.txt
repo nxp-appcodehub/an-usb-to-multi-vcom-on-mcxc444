@@ -1,0 +1,35 @@
+NXP Software Content Register
+
+Package:                   an-usb-to-multi-vcom-on-mcxc444
+
+Version:                   1.0
+Outgoing License:          BSD-3-Clause
+License File:              LICENSE.txt
+Description and comments:  This application note describes how to implement a USB to multiple VCOMs' functions on MCXC444 series FRDM boards (FRDM-MCXC444).
+Release Location:          https://github.com/nxp-appcodehub/an-usb-to-multi-vcom-on-mcxc444
+Origin:                    NXP (BSD-3-Clause)
+                           CMSIS - ARM (Apache-2.0) - https://github.com/ARM-software/CMSIS_5/
+						   
+
+CMSIS                      Name: CMSIS                                       
+                           Version: 5.8.0                                    
+                           Outgoing License: Apache License 2.0              
+                           License File: frdmmcxc444_multi_vcom/CMSIS/LICENSE.txt                  
+                           Format: source code                               
+                           Description and comments: Vendor-independent hardware          
+                           abstraction layer for microcontrollers that are   
+                           based on Arm Cortex processors, distributed by    
+                           ARM. cores 
+                           Location: 
+						   https://github.com/nxp-appcodehub/an-usb-to-multi-vcom-on-mcxc444/tree/main/frdmmcxc444_multi_vcom/CMSIS/  
+                           Origin: ARM (Apache License 2.0)              
+
+SDK_Components             Name: SDK components and board peripheral drivers 
+                           Version: NA                                       
+                           Outgoing License: BSD-3-Clause                    
+                           License File: LICENSE.txt                      
+                           Format: source code                               
+                           Description: SDK components and board peripheral  
+                           drivers, for example, flash and codec drivers.    
+                           Location: frdmmcxc444_multi_vcom/components/ 
+                           Origin: NXP (BSD-3-Clause)
